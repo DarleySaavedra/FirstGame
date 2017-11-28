@@ -17,7 +17,8 @@ a cargo del Ingeniero HENRY MENDOZ PUERTAS en la Universidad Privada Antenor ORR
 
 Los videojuegos educativos son actividades recreativas que sirven para desarrollar las potencialidades de los niños, jovenes y adultos; proporcionando entretenimiento y diversión que estimula mentalmente y fisicamente a la persona. Los videojuegos virtuales son una mezcla de videojuegos con la tecnología.
 
-Por este motivo este proyecto tiene como objetivo de entretenimiento educativo y cuya finalidad es enseñar a los niños a desarrollar, capacitar sus conocimientos. En este caso nos centraremos en el caso de los niños en donde se analizó el problema, que no existe una software o aplicacion de acuerdo a sus necesidades, que le permita al niño a reforzar sus conocimientos por ende es  crear un proyecto web para que todo niño tenga la posibilidad de usarla, la aplicacion totalmente gratuita.
+Por este motivo el proyecto tiene como objetivo de tener un entretenimiento educativo y cuya finalidad es enseñar a los niños a desarrollar, capacitar sus conocimientos. En este caso nos centraremos en el los niños en donde se analizó el problema, que no existe una software o aplicacion de acuerdo a sus necesidades, que le pueda permitir al niño a reforzar sus conocimientos por ende es  crear un proyecto web para que todo niño tenga la posibilidad de usarla, la aplicacion totalmente gratuita.
+Esta aplicacion es una herramienta que se usará mas seguido siendo asi una gran ayuda para los niños en que se puedan relajar divirtiendose y con el tiempo la aplicación se podrá implementar a los requerimientos de acuerdo a los usuarios que seria como principal a los niños y luego a la docente. 
 
 # Gestión del Proyecto
 
