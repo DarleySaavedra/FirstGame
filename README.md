@@ -13,6 +13,7 @@ a cargo del Ingeniero HENRY MENDOZ PUERTAS en la Universidad Privada Antenor ORR
 + SUARES BENITES, Marco A.
 
 # Introducción del Proyecto
+----------------------------------------------
 
 Los videojuegos educativos son actividades recreativas que sirven para desarrollar las potencialidad de los niños, jovenes y adultos; proporcionando entretenimiento y diversion que estimula mentalmente y fisicamente a la persona. Los videosjuegos virtuales son una mezcla de videojuegos con la tecnologia.
 
@@ -20,6 +21,7 @@ Por este motivo este proyecto tiene como objetivo de entretenmiento educativo y 
 la posibilidad de usarla, la aplicacion totalmente gratuita.
 
 # Requerimientos del proyecto
+----------------------------------------------
 
 + Recompensar a cada usuario con diferentes premios después de cada cuestionario aprobado.
 + Mostrar las instrucciones de como realizar el cuestionario antes de comenzar la partida.
@@ -34,6 +36,7 @@ la posibilidad de usarla, la aplicacion totalmente gratuita.
 La evidencia de los requerimiento, se encuentra en el siguiente [enlace](https://trello.com/b/SitCRKMd/my-first-game)
 
 # Interfaces
+---------------------------------------------
 
 <img src='https://rawgit.com/DarleySaavedra/GitEvans/master/frame.jpg' />
 
