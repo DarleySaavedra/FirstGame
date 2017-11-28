@@ -23,6 +23,7 @@ Por este motivo este proyecto tiene como objetivo de entretenimiento educativo y
 
 ***Trello:***
 En el siguiente [enlace](https://trello.com/b/SitCRKMd/my-first-game).
+
 ***Product backlog(requerimientos)***
 
 + Recompensar a cada usuario con diferentes premios después de cada cuestionario aprobado.
@@ -34,8 +35,6 @@ En el siguiente [enlace](https://trello.com/b/SitCRKMd/my-first-game).
 + Mostrar el tiempo de realización de cada cuestionario después de finalizarlo.
 + Acumular puntaje por cada respuesta correcta.
 + Mostrar problemas de forma aleatoria correspondiente al nivel actual del usuario.
-
-
 
   # SPRINT 
   ***Interfaces***
