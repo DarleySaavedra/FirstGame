@@ -41,7 +41,16 @@ La evidencia de los **requerimientos**, se encuentra en el siguiente [enlace](ht
 
 <img src='https://rawgit.com/DarleySaavedra/GitEvans/master/frame2.jpg' />
 
-# ¿Cómo funciona?
+# ¿Cómo funciona?***
+
+Para acceder a la aplicación, se tiene que registrar basicamente con un nombre y una contraseña ya que la aplicación guardará sus datos que luego será observado por la docente, después de ello accederá a la siguiente vista para seleccionar 2 cursos: Comunicación o Matematica, seleccionar una de ellas y aparecerá un cuestionario para que el niño empiece a responder. Al final tendrá una calificación y el niño tendrá la opción de repetir responder las preguntas, sino se asignará un logro al final de las preguntas.
+
+***Tecnologias usadas***
+
++ HTML5, CSS, JavaScript
++ Lenguaje de Programacion: C#
+
+
 
 
 
