@@ -1,4 +1,4 @@
-# APLICACION EDUCATIVO "FIRSTGAME"
+# APLICACIÓN EDUCATIVO "FIRSTGAME"
 Orientada para niños de 6 y 7 años de nivel de primaria
 En este proyecto desarrollado con la finalidad de  mostrar las metod ágiles con SCRUM aprendido en clase de **INGENIERIA DE SOFTWARE II**,
 a cargo del Ingeniero HENRY MENDOZ PUERTAS en la Universidad Privada Antenor ORREGO.
@@ -24,20 +24,24 @@ Por este motivo este proyecto tiene como objetivo de entretenimiento educativo y
 ***Trello:***
 En el siguiente [enlace](https://trello.com/b/SitCRKMd/my-first-game).
 
+***Estimaciones***
+
+<img src='https://rawgit.com/DarleySaavedra/GitEvans/master/CAP1.png' />
+
 ***Product backlog(requerimientos)***
 
 + Recompensar a cada usuario con diferentes premios después de cada cuestionario aprobado.
 + Mostrar las instrucciones de como realizar el cuestionario antes de comenzar la partida.
-+ Usar sonidos específicos para cada acción realizada en el cuestionario.
 + Mostrar los errores y aciertos del usuario al final de cada cuestionario.
 + Mostrar fecha de realización del cuestionario.
-+ Restringuir el tiempo de realizacion de cuestionario.
-+ Mostrar el tiempo de realización de cada cuestionario después de finalizarlo.
++ Mostrar una imagen de fondo para llamar la atención del niño.
 + Acumular puntaje por cada respuesta correcta.
 + Mostrar problemas de forma aleatoria correspondiente al nivel actual del usuario.
++ Mostrar puntaje total acumulado después de cada cuestionario.
++ Usar sonidos específicos para cada acción realizada en el cuestionario.
++ Restringuir el tiempo de realizacion de cuestionario.
 
-  # SPRINT 
-  ***Interfaces***
+# Interfaces
 
 <img src='https://rawgit.com/DarleySaavedra/GitEvans/master/frame.jpg' />
 
