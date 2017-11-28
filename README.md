@@ -19,8 +19,11 @@ Los videojuegos educativos son actividades recreativas que sirven para desarroll
 
 Por este motivo este proyecto tiene como objetivo de entretenimiento educativo y cuya finalidad es enseñar a los niños a desarrollar, capacitar sus conocimientos. En este caso nos centraremos en el caso de los niños en donde se analizó el problema, que no existe una software o aplicacion de acuerdo a sus necesidades, que le permita al niño a reforzar sus conocimientos por ende es  crear un proyecto web para que todo niño tenga la posibilidad de usarla, la aplicacion totalmente gratuita.
 
-# Requerimientos del proyecto
+# Gestión del Proyecto
 
+***Trello:***
+En el siguiente [enlace](https://trello.com/b/SitCRKMd/my-first-game).
+***Product backlog(requerimientos)***
 
 + Recompensar a cada usuario con diferentes premios después de cada cuestionario aprobado.
 + Mostrar las instrucciones de como realizar el cuestionario antes de comenzar la partida.
@@ -32,16 +35,17 @@ Por este motivo este proyecto tiene como objetivo de entretenimiento educativo y
 + Acumular puntaje por cada respuesta correcta.
 + Mostrar problemas de forma aleatoria correspondiente al nivel actual del usuario.
 
-La evidencia de los **requerimientos**, se encuentra en el siguiente [enlace](https://trello.com/b/SitCRKMd/my-first-game)
 
-# Interfaces
+
+  # SPRINT 
+  ***Interfaces***
 
 <img src='https://rawgit.com/DarleySaavedra/GitEvans/master/frame.jpg' />
 
 
 <img src='https://rawgit.com/DarleySaavedra/GitEvans/master/frame2.jpg' />
 
-# ¿Cómo funciona?***
+# ¿Cómo funciona?
 
 Para acceder a la aplicación, se tiene que registrar basicamente con un nombre y una contraseña ya que la aplicación guardará sus datos que luego será observado por la docente, después de ello accederá a la siguiente vista para seleccionar 2 cursos: Comunicación o Matematica, seleccionar una de ellas y aparecerá un cuestionario para que el niño empiece a responder. Al final tendrá una calificación y el niño tendrá la opción de repetir responder las preguntas, sino se asignará un logro al final de las preguntas.
 
@@ -49,6 +53,7 @@ Para acceder a la aplicación, se tiene que registrar basicamente con un nombre 
 
 + HTML5, CSS, JavaScript
 + Lenguaje de Programacion: C#
+
 
 
 
