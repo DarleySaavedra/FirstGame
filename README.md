@@ -58,7 +58,8 @@ Para acceder a la aplicación, se tiene que registrar basicamente con un nombre 
 + HTML5, CSS, JavaScript
 + Lenguaje de Programacion: C#
 
-**DESPLIEGUE A Somee**
+**DESPLIEGUE A "Somee"**
+
 A continuación en el siguiente [enlace](http://EducationOnline.somee.com)
 
 
