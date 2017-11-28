@@ -1,5 +1,5 @@
 # APLICACION EDUCATIVO "FIRSTGAME"
-Orientad para niños de 6 y 7 años de nivel de primaria
+Orientada para niños de 6 y 7 años de nivel de primaria
 En este proyecto desarrollado con la finalidad de  mostrar las metod ágiles con SCRUM aprendido en clase de **INGENIERIA DE SOFTWARE II**,
 a cargo del Ingeniero HENRY MENDOZ PUERTAS en la Universidad Privada Antenor ORREGO.
 
@@ -13,15 +13,14 @@ a cargo del Ingeniero HENRY MENDOZ PUERTAS en la Universidad Privada Antenor ORR
 + SUARES BENITES, Marco A.
 
 # Introducción del Proyecto
-----------------------------------------------
 
-Los videojuegos educativos son actividades recreativas que sirven para desarrollar las potencialidad de los niños, jovenes y adultos; proporcionando entretenimiento y diversion que estimula mentalmente y fisicamente a la persona. Los videosjuegos virtuales son una mezcla de videojuegos con la tecnologia.
 
-Por este motivo este proyecto tiene como objetivo de entretenmiento educativo y cuya finalidad es enseñar a los niños a desarrollar, capacitar sus conocimientos. En este caso nos centraremos en el caso de los niños en donde se analizo el problema, que no existe una software o aplicacion que le permita al niño a reforzar sus conocimientos por ende es  crear un proyecto web para que todo niño tenga 
-la posibilidad de usarla, la aplicacion totalmente gratuita.
+Los videojuegos educativos son actividades recreativas que sirven para desarrollar las potencialidades de los niños, jovenes y adultos; proporcionando entretenimiento y diversión que estimula mentalmente y fisicamente a la persona. Los videojuegos virtuales son una mezcla de videojuegos con la tecnología.
+
+Por este motivo este proyecto tiene como objetivo de entretenimiento educativo y cuya finalidad es enseñar a los niños a desarrollar, capacitar sus conocimientos. En este caso nos centraremos en el caso de los niños en donde se analizó el problema, que no existe una software o aplicacion de acuerdo a sus necesidades, que le permita al niño a reforzar sus conocimientos por ende es  crear un proyecto web para que todo niño tenga la posibilidad de usarla, la aplicacion totalmente gratuita.
 
 # Requerimientos del proyecto
-----------------------------------------------
+
 
 + Recompensar a cada usuario con diferentes premios después de cada cuestionario aprobado.
 + Mostrar las instrucciones de como realizar el cuestionario antes de comenzar la partida.
@@ -36,10 +35,13 @@ la posibilidad de usarla, la aplicacion totalmente gratuita.
 La evidencia de los **requerimientos**, se encuentra en el siguiente [enlace](https://trello.com/b/SitCRKMd/my-first-game)
 
 # Interfaces
----------------------------------------------
 
 <img src='https://rawgit.com/DarleySaavedra/GitEvans/master/frame.jpg' />
 
 
 <img src='https://rawgit.com/DarleySaavedra/GitEvans/master/frame2.jpg' />
+
+# ¿Cómo funciona?
+
+
 
