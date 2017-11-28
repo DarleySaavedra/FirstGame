@@ -33,3 +33,10 @@ la posibilidad de usarla, la aplicacion totalmente gratuita.
 
 La evidencia de los requerimiento, se encuentra en el siguiente [enlace](https://trello.com/b/SitCRKMd/my-first-game)
 
+# Interfaces
+
+<img src='https://rawgit.com/DarleySaavedra/GitEvans/master/frame.jpg' />
+
+
+<img src='https://rawgit.com/DarleySaavedra/GitEvans/master/frame2.jpg' />
+
